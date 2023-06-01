@@ -1,0 +1,2 @@
+# bot
+radio.versao.fm
